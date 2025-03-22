@@ -1,0 +1,7 @@
+theme = "adwaita-dark"
+ 
+[editor]
+bufferline = "always"
+
+[editor.cursor-shape]
+# insert = "bar"
