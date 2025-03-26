@@ -5,3 +5,6 @@ bufferline = "always"
 
 [editor.cursor-shape]
 # insert = "bar"
+
+[keys.normal]
+C-g = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
