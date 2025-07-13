@@ -11,6 +11,7 @@ brew "typescript" #hx
 brew "typescript-language-server" #hx
 brew "vscode-langservers-extracted" #hx
 brew "yazi"
+brew "zsh-autocomplete"
 brew "zsh-autosuggestions"
 brew "jandedobbeleer/oh-my-posh/oh-my-posh"
 cask "brave-browser"
